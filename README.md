@@ -7,8 +7,7 @@
 
 ### <a href="https://arcane-plains-37972.herokuapp.com/">Railsサンプル画面</a>
 
-<p style="text-decoration: line-through;"><a href="https://itachi-p.com">AWS & Laravel SampleApp</a></p>
-※AWS無料期間終了の為、現在停止中
+<a style="text-decoration: line-through;" href="https://itachi-p.com">AWS & Laravel SampleApp</a>※AWS無料期間終了の為、現在停止中
 
 ### <a href="https://github.com/itachi-P/">GitHub</a>
 
