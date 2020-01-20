@@ -8,8 +8,9 @@
 
 ### <a href="https://arcane-plains-37972.herokuapp.com/">Railsサンプル画面</a>
 
-### [Laravel&AWS]※AWS無料期間終了の為インスタンス（各サンプルアプリ）停止中
 <p style="text-decoration: line-through;"><a href="itachi-p.com">AWS & Laravel SampleApp</a></p>
+
+#### ※AWS無料期間終了の為インスタンス（各サンプルアプリ）停止中
 
 ### <a href="https://github.com/itachi-P/">GitHub</a>
 
