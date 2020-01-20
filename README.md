@@ -1,7 +1,7 @@
 # 2020/1~ HPリニューアル工事中
 
-### <a href="https://itachihp.herokuapp.com/">itachi-P(Psycho-Logic) new Homepage(工事中)</a>
-（仮）WordPress移行中新ホームページ<br>
+### <a href="https://itachihp.herokuapp.com/">itachi-P(Psycho-Logic) new Homepage(準備中)</a>
+（仮）WordPress移行中 新ホームページ<br>
 
 ### <a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHPによるToDoリスト</a>
 
