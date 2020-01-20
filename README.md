@@ -10,4 +10,6 @@
 
 ### <a href="https://github.com/itachi-P/">GitHub</a>
 
+#### Flutterによるマルチプラットフォームアプリ（準備中）
+
 ---
