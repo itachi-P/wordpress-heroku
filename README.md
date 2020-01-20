@@ -1,11 +1,19 @@
 # 2020/1~ HPリニューアル工事中
-（仮）WordPress移行中
+（仮）WordPress移行中<br>
 https://itachihp.herokuapp.com/
 
-<p>(PHP)TODOList</p>
+(PHP)TODOList<br>
 https://itachip-php-todolist.herokuapp.com/php/login.php
-<p>(Ruby&Rails)SamplePage</p>
+
+(Rails)SamplePage<br>
 https://arcane-plains-37972.herokuapp.com/
+
+(Laravel&AWS)※AWS無料期間終了の為インスタンス（各サンプルアプリ）停止中
+
+GitHub<br>
+https://github.com/itachi-P/
+
+---
 
 Project Information:
 
