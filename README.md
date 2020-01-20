@@ -1,10 +1,10 @@
 # 2020/1~ HPリニューアル工事中
 
-## （仮）WordPress移行中<br>
+### （仮）WordPress移行中<br>
 
 <a href="https://itachihp.herokuapp.com/">itachi-P(Psycho-Logic) new Homepage(工事中)</a>
 
-## [PHP]TODOList<br>
+### [PHP]TODOList<br>
 
 <a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHPによるToDoリスト</a>
 
@@ -15,7 +15,7 @@
 ### [Laravel&AWS]※AWS無料期間終了の為インスタンス（各サンプルアプリ）停止中
 <p style="text-decoration: line-through;"><a href="itachi-p.com">AWS & Laravel SampleApp</a></p>
 
-## GitHub<br>
+### GitHub<br>
 
 <a href="https://github.com/itachi-P/">GitHub</a>
 
