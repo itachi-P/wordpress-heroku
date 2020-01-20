@@ -1,4 +1,5 @@
-# [WordPress](https://wordpress.org/) on [Heroku](http://heroku.com)
+# HPリニューアル（仮）WordPress移行中
+https://itachihp.herokuapp.com/
 
 Project Information:
 
