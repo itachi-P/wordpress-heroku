@@ -2,22 +2,22 @@
 
 ## （仮）WordPress移行中<br>
 
-https://itachihp.herokuapp.com/
+<a href="https://itachihp.herokuapp.com/">itachi-P(Psycho-Logic) new Homepage(工事中)</a>
 
 ## [PHP]TODOList<br>
 
-https://itachip-php-todolist.herokuapp.com/php/login.php
+<a href="https://itachip-php-todolist.herokuapp.com/php/login.php">生PHPによるToDoリスト</a>
 
 ### [Rails]SamplePage<br>
 
-https://arcane-plains-37972.herokuapp.com/
+<a href="https://arcane-plains-37972.herokuapp.com/">Railsサンプル画面</a>
 
 ### [Laravel&AWS]※AWS無料期間終了の為インスタンス（各サンプルアプリ）停止中
 <p style="text-decoration: line-through;"><a href="itachi-p.com">AWS & Laravel SampleApp</a></p>
 
 ## GitHub<br>
 
-https://github.com/itachi-P/
+<a href="https://github.com/itachi-P/">GitHub</a>
 
 ---
 
